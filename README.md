@@ -9,7 +9,7 @@ by Piotr Sawicki, Marek Grzes, Anna Jordanous, Dan Brown, Max Peeperkorn
 
 ICCC 2022
 
-## Contents of the repository
+## Datasets
 
 **"datasets"** folder contains the original datasets of collected works by Byron and Shelley, whihc were used to fine-tune our models. We provide both the original datasets (as downloaded from Gutenberg.org), and their pre-processed versions, which were used in the experiments. 
 
@@ -20,3 +20,5 @@ ICCC 2022
 Sample "0_48_08809.html" in the folder "output_Byron_Regular_Medium" has position "0" (first), as it contains the highest number of duplicate lines, number "48" is the number of repeated lines, "08809" indicates that it was generated at 80K steps checkpoint with a seed 809,
 
 Sample" 111_20_06267.html" has position 111, with 20 repeated lines, generated at 60K steps checkpoint, with seed 267, etc.
+
+## Code
