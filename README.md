@@ -22,3 +22,8 @@ Sample "0_48_08809.html" in the folder "output_Byron_Regular_Medium" has positio
 Sample" 111_20_06267.html" has position 111, with 20 repeated lines, generated at 60K steps checkpoint, with seed 267, etc.
 
 ## Code
+
+**"Open_AI_GPT-2_fine-tune_and_generate.ipynb"** notebook allows to fine-tune the OpenAI ("Regular") GPT-2 models and generate samples from them. The notebook is ready to use. Click on the "Open in Colab" button, and follow the instructions. This notebook also allows to save the fine-tuned models in Google Drive in order to return to them later.
+
+## Remaining code will be added shortly
+Peter S
