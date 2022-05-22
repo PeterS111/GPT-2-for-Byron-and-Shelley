@@ -8,3 +8,5 @@ This repository contains data and code for the paper:
 by Piotr Sawicki, Marek Grzes, Anna Jordanous, Dan Brown, Max Peeperkorn
 
 ICCC 2022
+
+"Datasets" folder contains the original datasets of collected works by Byron and Shelley, whihc were used to fine-tune our models. We provide both the original datasets (as downloaded from Gutenberg.org), and their pre-processed versions, which were used in the experiments. 
