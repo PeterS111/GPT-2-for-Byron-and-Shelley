@@ -32,5 +32,3 @@ The notebooks are ready to use. Click on the "Open in Colab" button, and follow 
 ## Remaining code will be added shortly
 Peter S
 
-## Remaining code will be added shortly
-Peter S
