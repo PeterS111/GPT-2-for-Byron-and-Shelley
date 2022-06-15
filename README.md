@@ -23,7 +23,14 @@ Sample" 111_20_06267.html" has position 111, with 20 repeated lines, generated a
 
 ## Code
 
-**"Open_AI_GPT-2_fine-tune_and_generate.ipynb"** notebook allows to fine-tune the OpenAI ("Regular") GPT-2 models and generate samples from them. The notebook is ready to use. Click on the "Open in Colab" button, and follow the instructions. This notebook also allows to save the fine-tuned models in Google Drive in order to return to them later.
+**"Open_AI_GPT-2.ipynb"** notebook allows to fine-tune the OpenAI ("Regular") GPT-2 models and generate samples from them. 
+
+**"Transformers_GPT-2.ipynb"** notebook allows to fine-tune the GPT-2 models from Transformers library ("Language Modeling Head - LMH" models) and generate samples from them. 
+
+The notebooks are ready to use. Click on the "Open in Colab" button, and follow the instructions. Thes notebooks also allows to save the fine-tuned models in Google Drive in order to return to them later.
+
+## Remaining code will be added shortly
+Peter S
 
 ## Remaining code will be added shortly
 Peter S
